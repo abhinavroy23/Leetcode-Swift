@@ -2,7 +2,7 @@
 Leetcode swift solutions
 
 ### [Easy](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Easy)
-- [169. Majority Element](Easy/Majority Element.playground)
+- [169. Majority Element](Easy/Majority Element.playground/Contents.swift)
 - [278. First Bad Version]()
 - [367. Valid Perfect Square]()
 - [383. Ransom Note]()
