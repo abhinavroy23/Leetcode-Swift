@@ -53,5 +53,5 @@ func convert1(_ s: String, _ numRows: Int) -> String {
     }
 
     print(result.joined())
-    return ""
+    return result.joined()
 }
