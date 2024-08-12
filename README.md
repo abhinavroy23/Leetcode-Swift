@@ -33,7 +33,7 @@ Leetcode swift solutions (https://leetcode.com/problemset/all/)
 - [1427. Perform String shifts](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Easy/1427.%20Perform%20String%20shifts.playground)
 
 ### [Medium](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Medium)
-- [6. Zigzag Conversion](https://github.com/abhinavroy23/Leetcode-Swift/blob/master/Medium/6.%20Zigzag%20Conversion/Solution.swift)
+- [6. Zigzag Conversion](https://github.com/abhinavroy23/Leetcode-Swift/blob/master/Medium/6.%20Zigzag%20Conversion)
 - [33. Search in Rotated Sorted Array](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.playground)
 - [36. Valid Sudoku](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Medium/36.%20Valid%20Sudoku.playground)
 - [39. Combination Sum](https://github.com/abhinavroy23/Leetcode-Swift/tree/master/Medium/39.%20Combination%20Sum.playground)
